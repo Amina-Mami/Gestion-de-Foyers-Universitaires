@@ -9,20 +9,17 @@ Le système de gestion de dortoirs universitaires est une application web dével
 - **Gestion des Chambres** :
   - Allocation et réallocation des chambres.
   - Suivi de la disponibilité des chambres.
-  - Gestion des équipements des chambres.
+  - Ajout des chambres.
   
 - **Gestion des Étudiants** :
   - Enregistrement et mise à jour des informations des étudiants.
   - Attribution des chambres aux étudiants.
-  - Suivi des demandes et des plaintes des étudiants.
-
-- **Gestion des Dortoirs** :
-  - Gestion des différents dortoirs et de leurs capacités.
-  - Suivi de l'entretien et des réparations des dortoirs.
+  
+- **Gestion des Foyers** :
+  - Gestion des différents foyers et de leurs capacités.
   
 - **Gestion de l'Université** :
-  - Gestion des informations sur les bâtiments universitaires.
-  - Coordination avec d'autres départements universitaires pour les allocations de dortoirs.
+  - Gestion des informations sur les universitaires.
 
 ## Technologies Utilisées
 
@@ -34,10 +31,5 @@ Le système de gestion de dortoirs universitaires est une application web dével
   - **Spring Boot** : Framework Java pour le développement de services backend robustes et évolutifs.
   - **MySQL** : Base de données relationnelle pour le stockage des données.
 
-## Installation et Lancement
 
-### Prérequis
 
-- **Node.js** (pour le frontend)
-- **Java JDK** (pour le backend)
-- **MySQL** (pour la base de données)
