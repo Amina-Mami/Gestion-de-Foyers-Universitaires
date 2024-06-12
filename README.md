@@ -1,4 +1,4 @@
-# University Dorm Management System
+# Gestion des Foyers Universitaires
 
 ## Introduction
 
